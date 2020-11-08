@@ -15,7 +15,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k08io4R2oqXEay6AKPSJfsfW4D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,6 +35,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.18529412" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_03" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="DrawWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -66,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604826279517</updated>
       <workItem from="1604826280806" duration="4946000" />
+      <workItem from="1604832031361" duration="329000" />
     </task>
     <servers />
   </component>
