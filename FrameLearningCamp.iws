@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dea063a0-2a3e-4808-96cf-659215f768ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k08io4R2oqXEay6AKPSJfsfW4D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.18529412" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DrawWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DrawWindow" />
+      <module name="Week_03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DrawWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dea063a0-2a3e-4808-96cf-659215f768ec" name="Default Changelist" comment="" />
+      <created>1604826279517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604826279517</updated>
+      <workItem from="1604826280806" duration="4946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="193" key="#Project_Structure" timestamp="1604826346382">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="448" y="193" key="#Project_Structure/0.23.1920.1177@0.23.1920.1177" timestamp="1604826346382" />
+    <state x="773" y="325" key="#com.intellij.ide.util.MemberChooser" timestamp="1604828694599">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="773" y="325" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1604828694599" />
+    <state width="1638" height="213" key="GridCell.Tab.0.bottom" timestamp="1604832015995">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1638" height="213" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1604832015995" />
+    <state width="1638" height="213" key="GridCell.Tab.0.center" timestamp="1604832015994">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1638" height="213" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1604832015994" />
+    <state width="1638" height="213" key="GridCell.Tab.0.left" timestamp="1604832015993">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1638" height="213" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1604832015993" />
+    <state width="1638" height="213" key="GridCell.Tab.0.right" timestamp="1604832015994">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1638" height="213" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1604832015994" />
+    <state x="690" y="350" width="540" height="524" key="StructurePopup" timestamp="1604826963312">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="690" y="350" width="540" height="524" key="StructurePopup/0.23.1920.1177@0.23.1920.1177" timestamp="1604826963312" />
+    <state x="661" y="366" width="598" height="490" key="find.popup" timestamp="1604826889739">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="661" y="366" width="598" height="490" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1604826889739" />
+    <state x="353" y="234" key="new project wizard" timestamp="1604826334254">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="353" y="234" key="new project wizard/0.23.1920.1177@0.23.1920.1177" timestamp="1604826334254" />
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1604828254536">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1604828254536" />
+  </component>
+</project>
