@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dea063a0-2a3e-4808-96cf-659215f768ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Week_03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrameLearningCamp.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/FrameLearningCamp.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrameLearningCamp.iws" beforeDir="false" afterPath="$PROJECT_DIR$/FrameLearningCamp.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1k08io4R2oqXEay6AKPSJfsfW4D" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -32,6 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -43,7 +55,7 @@
       <recent name="$PROJECT_DIR$/Week_03" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="DrawWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DrawWindow" />
       <module name="Week_03" />
@@ -51,21 +63,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Week_05" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.DrawWindow" />
       </list>
     </recent_temporary>
@@ -79,7 +86,18 @@
       <option name="presentableId" value="Default" />
       <updated>1604826279517</updated>
       <workItem from="1604826280806" duration="4946000" />
-      <workItem from="1604832031361" duration="1004000" />
+      <workItem from="1604832031361" duration="1334000" />
+      <workItem from="1606025488752" duration="527000" />
+      <workItem from="1606026104684" duration="684000" />
+      <workItem from="1606026978657" duration="598000" />
+      <workItem from="1606027591897" duration="651000" />
+      <workItem from="1606028349707" duration="611000" />
+      <workItem from="1606028997999" duration="560000" />
+      <workItem from="1606029589458" duration="600000" />
+      <workItem from="1606030246228" duration="653000" />
+      <workItem from="1606030932195" duration="595000" />
+      <workItem from="1606031584357" duration="555000" />
+      <workItem from="1606032154022" duration="1255000" />
     </task>
     <servers />
   </component>
@@ -87,45 +105,88 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="448" y="193" key="#Project_Structure" timestamp="1604826346382">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state x="336" y="63" key="#Project_Structure" timestamp="1606025611948">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="336" y="63" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1606025611948" />
     <state x="448" y="193" key="#Project_Structure/0.23.1920.1177@0.23.1920.1177" timestamp="1604826346382" />
-    <state x="773" y="325" key="#com.intellij.ide.util.MemberChooser" timestamp="1604828694599">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state x="580" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1606027667987">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="580" y="248" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1606027667987" />
     <state x="773" y="325" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1604828694599" />
-    <state width="1638" height="213" key="GridCell.Tab.0.bottom" timestamp="1604832015995">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state x="472" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606027712783">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="472" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1606027712783" />
+    <state width="1398" height="180" key="GridCell.Tab.0.bottom" timestamp="1606032194797">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1606032194797" />
     <state width="1638" height="213" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1604832015995" />
-    <state width="1638" height="213" key="GridCell.Tab.0.center" timestamp="1604832015994">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1398" height="180" key="GridCell.Tab.0.center" timestamp="1606032194796">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1606032194796" />
     <state width="1638" height="213" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1604832015994" />
-    <state width="1638" height="213" key="GridCell.Tab.0.left" timestamp="1604832015993">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1398" height="180" key="GridCell.Tab.0.left" timestamp="1606032194795">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1606032194795" />
     <state width="1638" height="213" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1604832015993" />
-    <state width="1638" height="213" key="GridCell.Tab.0.right" timestamp="1604832015994">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1398" height="180" key="GridCell.Tab.0.right" timestamp="1606032194796">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1398" height="180" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1606032194796" />
     <state width="1638" height="213" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1604832015994" />
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1606031931375">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1606031931375" />
+    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1606031931374">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1606031931374" />
+    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1606031931373">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1606031931373" />
+    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1606031931374">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1606031931374" />
     <state x="690" y="350" width="540" height="524" key="StructurePopup" timestamp="1604826963312">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="690" y="350" width="540" height="524" key="StructurePopup/0.23.1920.1177@0.23.1920.1177" timestamp="1604826963312" />
+    <state x="458" y="216" key="extract.method.dialog" timestamp="1606031410004">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="216" key="extract.method.dialog/0.23.1440.877@0.23.1440.877" timestamp="1606031410004" />
     <state x="661" y="366" width="598" height="490" key="find.popup" timestamp="1604826889739">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="661" y="366" width="598" height="490" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1604826889739" />
-    <state x="353" y="234" key="new project wizard" timestamp="1604826334254">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state x="227" y="180" key="new project wizard" timestamp="1606025567690">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="227" y="180" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1606025567690" />
     <state x="353" y="234" key="new project wizard/0.23.1920.1177@0.23.1920.1177" timestamp="1604826334254" />
-    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1604828254536">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state x="469" y="220" width="670" height="504" key="search.everywhere.popup" timestamp="1606026066174">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="469" y="220" width="670" height="504" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1606026066174" />
     <state x="625" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1604828254536" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Week_05/src/main/java/Test.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
